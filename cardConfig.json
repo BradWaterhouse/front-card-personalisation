@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "3 picture card",
+    "image": {
+      "url": "https://eu-west-1.template.prod.moonpig.net/image/0de933115341287e",
+      "previewUrl": "https://eu-west-1.template.prod.moonpig.net/image/0de933115341287e"
+    },
+    "areas": [
+      {
+        "id": 1,
+        "type": "image",
+        "name": "main-image",
+        "x": -1.5,
+        "y": -3,
+        "width": 136.129,
+        "height": 76.2,
+        "value": "https://eu-west-1.template.prod.moonpig.net/image/3442c9ddd8f50907"
+      },
+      {
+        "id": 2,
+        "type": "image",
+        "name": "bottom-image-left",
+        "x": -1.5,
+        y: 102.569,
+        "width": 66.411,
+        "height": 87.445,
+        "value": "https://eu-west-1.template.prod.moonpig.net/image/bb820d7fe2c2e53e"
+      },
+      {
+        "id": 3,
+        "type": "image",
+        "name": "bottom-image-right",
+        "x": 65.043,
+        "y": 102.172,
+        "width": 66.751,
+        "height": 88.072,
+        "value": "https://eu-west-1.template.prod.moonpig.net/image/43286667448bfa87"
+      },
+      {"id": 4, "name": "text-1", "type": "text", "x": 4.585, "y": 78.492, "width": 740, "height": 59, "value": "HAPPY BIRTHDAY"},
+      {
+        "id": 5,
+        "name": "text-2",
+        "type": "text",
+        "x": 3.262,
+        "y": 87.169,
+        "width": 751,
+        "height": 80,
+        "value": "Have a great day!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "1 picture card",
+    "image": {
+      "url": "https://eu-west-1.template.prod.moonpig.net/image/42912aab91196025",
+      "previewUrl": "https://eu-west-1.template.prod.moonpig.net/image/42912aab91196025"
+    },
+    "areas": [
+      {
+        "id": 1,
+        "type": "image",
+        "name": "main-image",
+        "value": "https://eu-west-1.template.prod.moonpig.net/image/85484aaf3a84d5f2",
+        "x": 12,
+        "y": 17,
+        "width": 108.559,
+        "height": 135.593
+      },
+      {"id": 2, "type": "text", "name": "top-text", "value": "Happy Birthday", "x": 14.973, "y": 12, "width": 660, "height": 86},
+      {"id": 3, "type": "text", "name": "bottom-text", "value": "Some random", "x": 20.973, "y": 160, "width": 660, "height": 86}
+    ]
+  }
+];
